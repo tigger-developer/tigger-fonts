@@ -313,7 +313,7 @@ f = "narrow-serifless-crossbar-at-half-ascender-height"
 i = "hooky"
 
 [buildPlans.IosevkaPublish.weights.Regular]
-shape = 720
+shape = 400
 menu = 400
 css = 400
 
